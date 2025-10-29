@@ -54,16 +54,5 @@ We welcome all kinds of contributions! You can:
 - Add filtering/search features
 - Improve documentation
 
-Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
----
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
