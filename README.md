@@ -39,20 +39,4 @@ This repo is **frontend only** – contributors can improve the design, add new 
 
 ---
 
-## Contributing
-
-We welcome all kinds of contributions! You can:
-
-- Create new pages
-- Improve layouts
-- Add animations and transitions
-- Enhance responsiveness
-- Refactor components
-- Suggest new UI/UX ideas
-- Add themes or color variations
-- Introduce accessibility improvements
-- Add filtering/search features
-- Improve documentation
-
-
 
