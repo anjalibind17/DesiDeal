@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body {
+  padding-top: 90px; /* matches fixed navbar height */
+}
+
+
 * {
     scroll-behavior: smooth;
 }
